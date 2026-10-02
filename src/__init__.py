@@ -1,0 +1,1 @@
+"""SpamGuard AI core package."""
